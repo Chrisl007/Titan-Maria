@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Item>
+	<Name id = 0002 "Cyrovolcano Quest"</Name>
+	<Type> Scanning and Following Quest</Type>
+	<Description>
+		Recent seismic activity has TEC scratching there heads. Tectonic shifts or an explosion
+		of some sort, there seems to be danger looming in the shadows. The player will be 
+		finding what this seismic activity really is, a cyrovolcano.
+	<Description>
+	<Parts>
+		</Part1>Camera shakes, loud explosions are heard in the distance.</Part2>
+		</Part2>We are getting readings of seismic activity reading 9.2 on the
+			Richter Scale not to far from you. We are not quite sure what is causing
+			this jump, but we need you to investigate for any activity.</Part1>
+		</Part3>Go to area of seismic activity and investigate.</Part3>
+		</Part4>After doing further tests, we have ruled out any tectonic shifts,
+			for the disturbance orginated above ground. There are two current
+			possibilities for these readings, a asteroid impact or an eruption
+			from Titan's crust. Scan the general area for impact zones or high levels
+			of ammonia and nitrogen that could have been expelled from the crust.</Part4>
+		</Part5>Collect rock samples in the area (0/5)</Part5>
+		</Part6>The materials scanned show high levels of ammonia and nitrogen, pointing
+			toward evidence of a explosion from Titan's crust. Investigate the surrounding
+			area for the source of this explosion, the data we could collect would be
+			priceless.</Part6>
+		</Part7>Find where this explosion of ammonia and nitrogen is coming from</Part7>
+		</Part8>It seems you have discovered a cryovolcano and it looks to be what was 
+			causing that seismic activity. Collect samples at the base of the volcano but be 
+			careful; if one of those rocks hit the probe, it could compromise the hull.</Part8>
+		</Part9>Gather samples at the base of the cyrovolcano (0/2)</Part9>
+		</Part10>We just received the data from the scans now. This information will help
+			us further understand Titan's crust and all of its mysteries.</Part10>
+	</Parts>
+</Item>

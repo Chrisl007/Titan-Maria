@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name id = 0005 "Help Me I'm Squshy"</Name>
+  <Type> Hoard Defense Quest 5</Type>
+  <Description >
+	Herschel encounters a small creature that appears to be 
+	injured from being attacked by another creature, 
+	judging by its wounds. It seems to be calling out for help. 
+	Out of sympathy and break of usual protocol, Herschel decides 
+	to protect OR leave the creature alone. (protect) Protect the 
+	creature from waves of enemies till its mom comes. (leave) the creature dies.
+  </Description>
+  <Parts>
+	<Part1>A creature moans loudly in the distance</Part2> 
+	<Part2>Can you hear that? Find out where that sound is coming from.</Part1> <!-- this is a child of a child-->
+	<Part3>It looks like that creature up ahead is making that noise. Let’s take a closer look.</Part2> 
+	<Part4>Scan the creature.</Part4>
+	<Part5>This creature appears to be badly injured. 
+		Judging by its wounds, it must have been attacked by another creature. 
+		The noise it is making must be a cry for help, but it also increases 
+		its chance of possibly being attacked again.</part5>
+	<Part6>How should we proceed?</part6>
+	<Part7A>CHOICE 1: I understand it is break of protocol, but we should protect the creature until help arrives.</part7A>
+		<Part7A1>Very well, keep an eye out for possible predators lurking nearby.</Part7A1>
+		<Part7A2>We have incoming! Try to scare them away with Herschel’s sonar ping.</Part7A2>
+		<Part7A3>Defend the creature</Part7A3>
+	if(creature == dead){ Mission Over}
+	if(creature == survives){ Mission Continues}
+		<Part7A4>I believe that is the last of them. Wait… look.</Part7A4>
+		<Part8>[The creature’s mother appears and goes to the creature, MROWMRAR. 
+			Communication between mother and offspring occurs.</Part8>
+		<Part9>Incredible. Looks like the creature is in good hands, 
+			now that it appears to be back back with its mother. 
+			Excellent work.<Part10>
+		<Part10>Accolade Achieved: “Guardian Angel”</Part10>
+		
+
+	<Part7B>CHOICE 2: It is better to let evolution take its own course and not interfere.<Part7B>
+		<Part7C>I’m sorry, but there was nothing we can do. The creature’s life signs have stopped.</Part7C>
+		<Part7C>The creature has died. MISSION OVER.</Part7C>
+
+
+  </Parts>
+  <!-- This mission requires you to make a decision -->
+</Item>

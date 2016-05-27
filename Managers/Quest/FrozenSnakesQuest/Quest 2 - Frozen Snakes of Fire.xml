@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name id = 0002 "Frozen Snakes of Fire"</Name>
+  <Type> Discovery & Survival Quest 3</Type>
+  <Description >
+	Herschel follows a strange infrared trail of a 
+	thermal-hydro-snake, which slithers and spits 
+	hot cryo-acid. It follows it into a cave 
+	filled of snakes slithering and circling the probe. 
+	Make it safely out of the cave.
+  </Description>
+  <Parts>
+
+	<Part1>Take a look at this. Infrared scans are showing a
+		strange pattern of isolated heat signatures 
+		trailing across the sea floor. Follow the 
+		infrared trail and see where it leads too.</Part2> 
+	<Part2>Herschel Scans the First Trail Piece.</Part1>
+	<Part3>This kind of heat signature is not caused by
+		natural geography or weather. Evidence 
+		suggests it must be organic in origin. 
+		What could it be?</Part2> 
+	<Part4>The heat intensity of these infrared signatures
+		trails are increasing and becoming more frequent. 
+		We must be getting closer to its source.</Part4>
+	<Part5>This creature appears to be badly injured. 
+		Judging by its wounds, it must have been attacked by another creature. 
+		The noise it is making must be a cry for help, but it also increases 
+		its chance of possibly being attacked again.</part5>
+	<Part6>Reach Cave.</part6>
+	<Part7>Numerous heat signatures of this similar trail
+		pattern are leading directly into this cave.
+		What could be inside?/Part7>
+	<Part8>We’re detecting high acidity levels within the liquid hydrocarbon 
+		of this cave. This cave could have form from cryovolcanic activity 
+		in the past. Look! There is something up ahead.</Part8>
+	<Part9>Reach Organism.</Part9>
+	<Part10>Fascinating. Scans show that this life form lives off of the high 
+		liquid acidity levels inside this cave, as well as numerous other 
+		plants and microorganisms. The skeletal remains of previous organisms 
+		here suggest that it use acid as a form of defense or means of digestion.</Part10>
+	<Part11>Scan Eggs</Part11>
+	<Part12>Looks like this snake hatched from these eggs. Knowing that there 
+		are multiple eggs here, there could be more of these snake organisms 
+		around.[SCREEEECH! Snakes appear and circle the probe like a tornado]</Part12>
+	<Part13>It appears we have disturbed their nesting grounds, and they don’t 
+		look very happy to see us! Quick! Get the probe to safety!</Part13>
+	<Part14>[Exit cave to waypoint a hectometer outside] (If player dies, it will 
+		spawn back in cave or back to nearest spawn point, and player will 
+		have to go back to waypoint to complete mission]</Part14>
+	<Part15>We have recorded as much information as we could about the cave and 
+		snakes. That was quite the discovery. Good work.</Part15>
+	<Part16> MISSION COMPLETE - Accolade Achieved: Snaaaaakes!</Part16>
+
+  </Parts>
+  <!-- This mission requires you to make a decision -->
+</Item>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name id = 0004 "That is No Iceberg!"</Name>
+  <Type>Discovery Quest 4</Type>
+  <Description >
+	Herschel detects a large object nearby moving in the liquid. 
+	It turns out to be icebergs. However, upon closer observations, 
+	one of these icebergs is not an iceberg. It’s alive and moving! 
+	Herschel follows the iceberg to a waterfall that sustains the iceberg creature.
+  </Description>
+  <Parts>
+
+	<Part1>These wave ripples in the liquid hydrocarbon indicate activity in the 
+		area. We are detecting a series of large slow-moving objects nearby. 
+		Follow the source of the wave ripples.</Part1> 
+	<Part2>[Herschel goes to group of icebergs after following 
+		the wave ripples]</Part2>
+	<Part3>Look at the size of these icebergs! Scan one of the 
+		icebergs for closer analysis.</Part3> 
+	<Part4>Scan Iceberg</Part4>
+	<Part5>Scan complete. It appears these icebergs are made out of various 
+		hydrocarbon mixtures frozen-packed together. 
+		The iceberg is slowly melting by the warmer temperatures of the sea.</part5>
+	<Part6>[LARGE ALIEN ICEBERG THINGAMABOB ARISES FROM UNDER WATER]</Part6>
+	<Part7>Wait. We’re detecting more movement. Look at that! It
+		appears one of the icebergs is moving! Wait… that’s not an iceberg.</Part7>
+	<Part8>Use your long range scanner to safely analyze the creature.</Part8>
+	<Part9>[BIOLOGICAL SCAN COMPLETE] Fascinating. It seems this creature 
+		is using its iceberg-like appearance to camouflage itself amongst 
+		the rest of the natural iceberg structures, possibly as a form of defense.</Part9>
+	<Part10>[The iceberg creature moves away]</Part10>
+	<Part11>It must be aware of our presence, since it is swimming away. Follow
+			the creature. See where it is going</Part11>
+	<Part12>[Creature leads to a waterfall]</Part12>
+	<Part13>Amazing! The creature has lead us to what looks like a waterfall. 
+			Let’s move closer to the waterfall for a liquid sample.</Part13>
+	<Part14>[Sampling water]</Part14>
+	<Part15>This waterfall is naturally flowing of liquid ethane and methane. 
+			Further observation indicates that the creature is using the waterfall’s 
+			liquid to help sustain its iceberg appearance, once frozen over time. 
+			The waterfall could also be a source of food and mineral for the creature.</Part15>
+	<Part16>What a fascinating discovery! [Mission Objective Complete]</Part16>
+	<Part17>Accolade Achieved: That's No Iceberg!</Part17>
+	
+
+
+  </Parts>
+  <!-- This mission requires you to make a decision -->
+</Item>
